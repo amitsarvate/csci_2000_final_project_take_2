@@ -5,8 +5,11 @@
 ### About Me
 
 Amit Sarvate -- amitsarvate
+
 Benjamin D. Fedoruk -- fedorukben
+
 Lexa Torrance -- 
+
 Ahad Abdul -- 
 
 ### Introduction
