@@ -49,3 +49,5 @@ This project was submitted as the final course project for CSCI 2000U “Scienti
 ### References
 
 1. Dgomonov. (2019). New York City Airbnb Open Data. Kaggle.com. https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+
+# TRADITIONAL README FILE
