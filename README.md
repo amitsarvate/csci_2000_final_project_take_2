@@ -46,4 +46,6 @@ All in all, this dataset has proven extremely interesting, and has provided key 
 
 This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and that all appropriate resources are rightfully cited.
 
+### References
+
 1. Dgomonov. (2019). New York City Airbnb Open Data. Kaggle.com. https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
