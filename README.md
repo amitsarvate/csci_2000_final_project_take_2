@@ -8,9 +8,9 @@ Amit Sarvate -- amitsarvate
 
 Benjamin D. Fedoruk -- fedorukben
 
-Lexa Torrance -- 
+Lexa Torrance -- PreeminentLexa
 
-Ahad Abdul -- 
+Ahad Abdul -- Ahad0926
 
 ### Introduction
 
