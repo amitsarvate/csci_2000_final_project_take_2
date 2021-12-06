@@ -1,5 +1,7 @@
 # BLOG POST REPORT 
 
+## Airbnbs in NYC: An Analysis of Optima for Airbnb Owners and Travelers 
+
 ### About Me
 
 Amit Sarvate -- amitsarvate
