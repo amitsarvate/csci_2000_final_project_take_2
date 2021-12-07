@@ -29,6 +29,9 @@ The two areas with the highest price are in Manhattan, and are located directly 
 
 There appear to be niche, high-priced properties in Staten Island, although the traffic appears to be lower. As such, the returns may diminish. However, each night’s stay will be of a higher value.
 
+![alt text](https://github.com/amitsarvate/csci_2000_course_project/blob/main/graph_2.png?raw=true)
+
+
 It also appears that Queen’s offers travelers with the most consistently affordable rates, providing that the traveler is willing to pay the costs of transportation to travel to their final destination (perhaps Manhattan). 
 
 The offerings in Manhattan appear to be approximately evenly distributed across price, such that an equal number of low-, middle-, and high-priced properties are available to access. The price could directly correlate to the location within Manhattan, or it could potentially correlate to specifics of the offering (perhaps number of rooms, level of decor, etc.). 
