@@ -53,4 +53,4 @@ The final technical report can be accessed by **tech-report-final.ipynb**.
 
 In order to run the report correctly please start at the first cell and run the cells one by one to ensure all the code is compiled correctly. 
 
-All the dependencies are contained within the 'Analysis of The Dataset'. Please run this cell before executing the code block preceding. This will ensure any modules required for the analysis and production of visualization within the report can be properly executed!
+All the dependencies are contained within the 'Analysis of The Dataset'. Please run this cell before executing the code blocks preceding. This will ensure any modules required for the analysis and production of visualization within the report can be properly executed!
