@@ -4,13 +4,10 @@
 
 ### About Me
 
-Amit Sarvate -- amitsarvate
-
-Benjamin D. Fedoruk -- fedorukben
-
-Lexa Torrance -- PreeminentLexa
-
-Ahad Abdul -- Ahad0926
+1. Amit Sarvate -- amitsarvate
+2. Benjamin D. Fedoruk -- fedorukben
+3. Lexa Torrance -- PreeminentLexa
+4. Ahad Abdul -- Ahad0926
 
 ### Introduction
 
@@ -51,3 +48,5 @@ This project was submitted as the final course project for CSCI 2000U “Scienti
 1. Dgomonov. (2019). New York City Airbnb Open Data. Kaggle.com. https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
 # TRADITIONAL README FILE
+
+
