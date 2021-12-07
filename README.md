@@ -1,6 +1,6 @@
 # BLOG POST REPORT 
 
-## Airbnbs in NYC: An Analysis of Optima for Airbnb Owners and Travelers 
+## Airbnbs in NYC: An Analysis of Optima for Airbnb Travelers 
 
 ### About Me
 
