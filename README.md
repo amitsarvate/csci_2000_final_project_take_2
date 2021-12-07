@@ -25,7 +25,7 @@ Continuing with this notion of using number of reviews as a proxy for popularity
 
 The two areas with the highest price are in Manhattan, and are located directly south of Central Park, and in the Financial District (along the southern tip of the Manhattan Peninsula). As such, travelers might be advised to find an Airbnb in the Greenwich Village and SoHo areas. Renters may be able to capitalize on this desire to find proximate accomodation to these two central locations in Manhattan, by situating their Airbnb properties in the Greenwich Village and SoHo neighbourhoods, in between Central Park and the Financial District. 
 
-![alt text](https://github.com/[amitsarvate]/[csci_2000_course_project]/blob/[main]/graph_1.png?raw=true)
+![alt text](https://github.com/amitsarvate/csci_2000_course_project/blob/main/graph_1.png?raw=true)
 
 There appear to be niche, high-priced properties in Staten Island, although the traffic appears to be lower. As such, the returns may diminish. However, each night’s stay will be of a higher value.
 
